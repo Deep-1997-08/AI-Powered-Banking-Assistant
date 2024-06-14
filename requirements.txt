@@ -1,0 +1,8 @@
+openai
+whisper
+pinecone-client
+langchain
+transformers
+torch
+pandas
+scikit-learn
